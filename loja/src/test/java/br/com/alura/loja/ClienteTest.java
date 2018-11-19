@@ -1,6 +1,7 @@
 package br.com.alura.loja;
 
-public class Cliente {
+public class ClienteTest {
 
-	teste
+	
+	
 }
